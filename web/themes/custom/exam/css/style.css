@@ -307,21 +307,20 @@
   }
   #navbar .region-navigation-collapsible {
     flex-direction: column;
-    margin: 25px 0;
   }
   #navbar .menu--main {
     flex-direction: column;
   }
   #navbar .menu--main li {
     margin-bottom: 18px;
-    font-size: 18px;
+    font-size: 14px;
   }
   #navbar .menu--main li a {
     margin: 0;
   }
   #navbar .menu--main img {
-    width: 36px;
-    height: 36px;
+    width: 30px;
+    height: 30px;
   }
   #navbar .navbar-nav li:first-child .is-active:after {
     display: none;
@@ -339,7 +338,7 @@
     margin-bottom: 10px;
   }
   #navbar .field--name-field-header-links .svg-inline--fa {
-    font-size: 32px;
+    font-size: 26px;
   }
   #navbar #edit-keys {
     width: 180px;
@@ -358,9 +357,6 @@
   }
   #navbar .field--name-field-quarantie {
     padding-top: 18px;
-  }
-  #navbar .navbar-toggle {
-    margin-top: 34px;
   }
 }
 @media (max-width: 562px) {
