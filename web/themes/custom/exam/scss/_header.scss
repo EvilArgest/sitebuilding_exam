@@ -241,6 +241,7 @@
     .full_header {
       flex-direction: column;
       width: 100%;
+      margin-top: 0;
     }
     .region-navigation-collapsible {
       margin: 0;
@@ -257,8 +258,8 @@
     }
     .navbar-toggle {
       margin-right: 35px;
-      margin-top: 30px;
       padding: 14px 15px;
+      margin-top: 0;
     }
     .field--name-field-header-links {
       position: initial;

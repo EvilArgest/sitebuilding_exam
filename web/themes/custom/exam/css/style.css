@@ -279,6 +279,7 @@
   #navbar .full_header {
     flex-direction: column;
     width: 100%;
+    margin-top: 0;
   }
   #navbar .region-navigation-collapsible {
     margin: 0;
@@ -295,8 +296,8 @@
   }
   #navbar .navbar-toggle {
     margin-right: 35px;
-    margin-top: 30px;
     padding: 14px 15px;
+    margin-top: 0;
   }
   #navbar .field--name-field-header-links {
     position: initial;
@@ -1259,6 +1260,7 @@ body {
 #webform-submission-contact-us-add-form {
   display: flex;
   flex-direction: row;
+  margin-bottom: 35px;
 }
 
 #edit-container-form {
