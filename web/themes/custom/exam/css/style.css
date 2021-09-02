@@ -1,10 +1,10 @@
-.footer .region-footer, #block-views-block-clients-block-1, #block-views-block-news-block-1 .view-id-news, #block-views-block-news-block-1 .contextual-region, #block-views-block-news-block-1 .block-title, #block-views-block-team-block-1, #block-views-block-projects-block-1 .view-content, #block-views-block-projects-block-1 .block-title, #block-views-block-services-block-1, #block-aboutlines {
+.footer .region-footer, #block-views-block-clients-block-1, #block-views-block-news-block-1 .view-id-news, #block-views-block-news-block-1 .contextual-region, #block-views-block-news-block-1 .block-title, #block-views-block-team-block-1, #block-views-block-projects-block-1 .view-content, #block-views-block-projects-block-1 .block-title, #block-views-block-services-block-1, #block-aboutlines, .view-display-id-page_1 {
   max-width: 1250px;
   width: 100%;
   margin: 0 auto;
 }
 
-.footer .region-footer, #block-views-block-clients-block-1, #block-views-block-news-block-1 .view-id-news, #block-views-block-news-block-1 .contextual-region, #block-views-block-news-block-1 .block-title, #block-views-block-team-block-1, #block-views-block-projects-block-1 .view-content, #block-views-block-projects-block-1 .block-title, #block-views-block-services-block-1, #block-aboutlines {
+.footer .region-footer, #block-views-block-clients-block-1, #block-views-block-news-block-1 .view-id-news, #block-views-block-news-block-1 .contextual-region, #block-views-block-news-block-1 .block-title, #block-views-block-team-block-1, #block-views-block-projects-block-1 .view-content, #block-views-block-projects-block-1 .block-title, #block-views-block-services-block-1, #block-aboutlines, .view-display-id-page_1 {
   max-width: 1250px;
   width: 100%;
   margin: 0 auto;
@@ -385,6 +385,10 @@ body {
   padding: 0;
   border: none;
   overflow-x: hidden;
+}
+
+.view-display-id-page_1 {
+  margin-bottom: 50px;
 }
 
 #block-aboutlines {

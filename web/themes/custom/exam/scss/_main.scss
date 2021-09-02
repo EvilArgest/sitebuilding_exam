@@ -4,3 +4,7 @@ body{
   border: none;
   overflow-x: hidden;
 }
+.view-display-id-page_1{
+  @extend %container;
+  margin-bottom: 50px;
+}
